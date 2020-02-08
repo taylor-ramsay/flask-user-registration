@@ -6,3 +6,4 @@ flask-sqlalchemy==2.4.1
 flask>=1.1.1
 gunicorn>=19.7.1
 psycopg2-binary==2.8.3
+Flask-Bcrypt==0.7.1

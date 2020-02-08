@@ -7,6 +7,6 @@ To get started:
 
 - To build the api run:  `docker-compose build`
 
-- To start the api run: `docker-compose up`
+- To start the api run: `docker-compose up -d`
 
 - To initialize the database, enter the shell: `docker exec -it api sh`, and run `manage.py initdb`
